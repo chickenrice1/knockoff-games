@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#cookie {
+    font-family: monospace;
+    white-space: pre;
+    line-height: 1;
+    margin-bottom: 20px;
+}
+.upgrade-section {
+    margin: 10px;
+}
+.upgrade-button {
+    margin: 5px;
+}
